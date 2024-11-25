@@ -1,2 +1,2 @@
 # Groundhopper
-App which shows the nearest football matches nearby
+ App which shows upcoming football matches nearby
